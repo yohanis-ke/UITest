@@ -1,0 +1,328 @@
+2021-02-18 10:22:53,000 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - Username: admin
+2021-02-18 10:22:53,000 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - Username: admin
+2021-02-18 10:22:53,016 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -WARN - Warning Message
+2021-02-18 10:22:53,016 [main] WARN com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - Warning Message
+2021-02-18 10:22:53,016 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -ERROR - Error Message
+2021-02-18 10:22:53,016 [main] ERROR com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - Error Message
+2021-02-18 10:22:53,016 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -FATAL - Fatal message
+2021-02-18 10:22:53,016 [main] FATAL com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - Fatal message
+2021-02-19 09:14:53,132 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:14:53,132 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:14:55,859 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin]
+2021-02-19 09:14:55,859 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin]
+2021-02-19 09:14:56,576 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:14:56,576 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:14:56,624 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin, admin123, admin]
+2021-02-19 09:14:56,624 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin, admin123, admin]
+2021-02-19 09:14:57,051 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:14:57,051 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:14:57,132 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin, admin123, admin, Admin, admin123]
+2021-02-19 09:14:57,132 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin, admin123, admin, Admin, admin123]
+2021-02-19 09:15:17,290 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:15:17,290 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:15:18,729 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin]
+2021-02-19 09:15:18,729 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin]
+2021-02-19 09:15:19,255 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:15:19,255 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:15:19,341 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin, admin123, admin]
+2021-02-19 09:15:19,341 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin, admin123, admin]
+2021-02-19 09:15:19,674 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - []
+2021-02-19 09:15:19,674 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - []
+2021-02-19 09:15:19,741 - com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin -INFO - [admin, admin, admin123, admin, Admin, admin123]
+2021-02-19 09:15:19,741 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC01_FailedLogin - [admin, admin, admin123, admin, Admin, admin123]
+2021-02-19 09:20:39,595 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:20:39,595 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:20:40,694 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin, admin]
+2021-02-19 09:20:40,694 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin, admin]
+2021-02-19 09:28:42,119 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:28:42,119 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:28:43,376 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:28:43,376 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:28:43,377 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:28:43,377 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:28:43,500 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:43,500 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:43,510 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin, admin]
+2021-02-19 09:28:43,510 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin, admin]
+2021-02-19 09:28:44,171 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:28:44,171 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:28:44,231 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:28:44,231 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:28:44,231 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:28:44,231 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:28:44,231 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:44,231 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:44,231 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin123, admin]
+2021-02-19 09:28:44,231 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin123, admin]
+2021-02-19 09:28:44,565 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:28:44,565 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:28:44,615 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:28:44,615 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:28:44,615 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:28:44,615 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:28:44,615 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:44,615 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:28:44,615 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [Admin, admin123]
+2021-02-19 09:28:44,615 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [Admin, admin123]
+2021-02-19 09:33:05,455 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:33:05,455 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:33:06,514 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:33:06,514 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:33:06,514 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:33:06,514 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:33:06,606 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:06,606 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:06,624 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin, admin]
+2021-02-19 09:33:06,624 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin, admin]
+2021-02-19 09:33:07,096 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:33:07,096 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:33:07,158 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:33:07,158 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:33:07,158 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:33:07,158 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:33:07,175 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:07,175 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:07,175 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin123, admin]
+2021-02-19 09:33:07,175 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin123, admin]
+2021-02-19 09:33:07,561 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 09:33:07,561 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 09:33:07,640 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 09:33:07,640 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 09:33:07,640 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 09:33:07,640 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 09:33:07,640 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:07,640 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 09:33:07,640 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [Admin, admin123]
+2021-02-19 09:33:07,640 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [Admin, admin123]
+2021-02-19 10:01:25,106 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 10:01:25,106 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 10:01:26,232 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 10:01:26,232 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 10:01:26,232 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 10:01:26,232 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 10:01:26,331 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:26,331 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:26,348 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin, admin]
+2021-02-19 10:01:26,348 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin, admin]
+2021-02-19 10:01:27,828 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - Username: admin
+2021-02-19 10:01:27,828 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - Username: admin
+2021-02-19 10:01:28,404 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 10:01:28,404 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 10:01:28,462 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 10:01:28,462 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 10:01:28,462 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 10:01:28,462 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 10:01:28,462 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:28,462 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:28,462 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin123, admin]
+2021-02-19 10:01:28,462 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin123, admin]
+2021-02-19 10:01:29,634 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-19 10:01:29,634 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-19 10:01:29,696 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-19 10:01:29,696 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-19 10:01:29,696 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-19 10:01:29,696 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-19 10:01:29,696 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:29,696 [main] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-19 10:01:29,696 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [Admin, admin123]
+2021-02-19 10:01:29,696 [main] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [Admin, admin123]
+2021-02-22 09:59:02,740 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-22 09:59:02,740 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-22 09:59:19,929 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-22 09:59:19,929 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-22 09:59:19,932 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-22 09:59:19,932 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-22 09:59:20,013 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:20,013 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="2" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A2" s="2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+  <main:c r="B2" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:20,050 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin, admin]
+2021-02-22 09:59:20,050 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin, admin]
+2021-02-22 09:59:21,080 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - Username: admin
+2021-02-22 09:59:21,080 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - Username: admin
+2021-02-22 09:59:21,723 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-22 09:59:21,723 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-22 09:59:21,765 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-22 09:59:21,765 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-22 09:59:21,767 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-22 09:59:21,767 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-22 09:59:21,771 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:21,771 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="3" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A3" t="s">
+    <main:v>4</main:v>
+  </main:c>
+  <main:c r="B3" t="s">
+    <main:v>3</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:21,803 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [admin123, admin]
+2021-02-22 09:59:21,803 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [admin123, admin]
+2021-02-22 09:59:23,122 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - []
+2021-02-22 09:59:23,122 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - []
+2021-02-22 09:59:23,184 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Count: 4
+2021-02-22 09:59:23,184 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Count: 4
+2021-02-22 09:59:23,187 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Column Count: 3
+2021-02-22 09:59:23,187 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Column Count: 3
+2021-02-22 09:59:23,191 - com.BusyQA.UITest.ExcelReader.ExcelReaderTest -INFO - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:23,191 [TestNG] INFO com.BusyQA.UITest.ExcelReader.ExcelReaderTest - Row Number: <xml-fragment r="5" spans="1:3" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:x14ac="http://schemas.microsoft.com/office/spreadsheetml/2009/9/ac" xmlns:xr="http://schemas.microsoft.com/office/spreadsheetml/2014/revision" xmlns:xr2="http://schemas.microsoft.com/office/spreadsheetml/2015/revision2" xmlns:xr3="http://schemas.microsoft.com/office/spreadsheetml/2016/revision3" xmlns:main="http://schemas.openxmlformats.org/spreadsheetml/2006/main">
+  <main:c r="A5" t="s">
+    <main:v>6</main:v>
+  </main:c>
+  <main:c r="B5" t="s">
+    <main:v>4</main:v>
+  </main:c>
+</xml-fragment>
+2021-02-22 09:59:23,232 - com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -INFO - [Admin, admin123]
+2021-02-22 09:59:23,232 [TestNG] INFO com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest - [Admin, admin123]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [LoginTCSuite]" verbose="0">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="env" value="qa"/>
+  <test parallel="tests" name="Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="env" value="qa"/>
+    <classes>
+      <class name="com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="TC02_FailedLoginTest"/>
+        </methods>
+      </class> <!-- com.BusyQA.UITest.TestCases.Sprint1.TC_LoginTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [LoginTCSuite] -->
